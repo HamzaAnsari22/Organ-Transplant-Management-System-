@@ -1,0 +1,2 @@
+1,talal,pancreas,O+,lahore,45,32
+2,sS,lungs,A-,sukkur,12,3
